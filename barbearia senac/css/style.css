@@ -206,6 +206,8 @@ body {
 /* Localização */
 .maintitle{
     text-align: center;
+    color: #D5CEA3;
+    font-size: 35px;
 }
 .map-conteudo{
     width: 940px;
@@ -217,5 +219,7 @@ body {
 }
 .map p{
     margin:0 0 2em 0;
-    text-align:center;    
+    text-align:center;  
+    color: #E5E5CB;
+    font-size: 20px; 
 }
